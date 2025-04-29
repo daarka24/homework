@@ -1,0 +1,20 @@
+Buy groceries
+5
+Complete homework
+8
+Clean the house
+6
+Call mom
+7
+Finish project
+9
+Read a book
+4
+Exercise
+6
+Reply to emails
+3
+Buy a birthday gift
+8
+Schedule meeting
+7

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6DA2BE-59A8-48D8-BFAC-E8F0F820D8E4}|1z3.vcxproj|D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A6DA2BE-59A8-48D8-BFAC-E8F0F820D8E4}|1z3.vcxproj|solutionrelative:file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6DA2BE-59A8-48D8-BFAC-E8F0F820D8E4}|1z3.vcxproj|D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A6DA2BE-59A8-48D8-BFAC-E8F0F820D8E4}|1z3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.txt",
+              "DocumentMoniker": "D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\file.txt",
+              "RelativeDocumentMoniker": "file.txt",
+              "ToolTip": "D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\file.txt",
+              "RelativeToolTip": "file.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-08T09:58:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\\u0435\u043A\u0437\u0430\u043C\u0435\u043D \u043F\u0440\u043E\u0433\u0430\\1z3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T09:47:56.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
